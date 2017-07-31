@@ -40,6 +40,6 @@
 29. asosiation class
 
 
-[lenciancia de visual paradigm](https://ap.visual-paradigm.com/sena/license.jsp)
+[licencia de visual paradigm](https://ap.visual-paradigm.com/sena/license.jsp)
 
 
