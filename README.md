@@ -1,5 +1,4 @@
 1. Clase(abstractas, concretas), objeto
-
 2. Atributo
 3. Metodo
 4. encapsulamiento

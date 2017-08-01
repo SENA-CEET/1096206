@@ -12,45 +12,167 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Perro.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/Perro.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="APP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/APP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="317">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Celular.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesanidadas/Celular.java">
+      <file leaf-file-name="Computador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Computador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="34" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Archivo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Archivo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="38" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
                 <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/co.edu.sena.asociacion.ejemplo01" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/co.edu.sena.asociacion.ejemplo01">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>co.edu.sena.asociacion.ejemplo01</OriginalElement>
+              <nodes>
+                <node x="-1.5" y="-84.0">co.edu.sena.asociacion.ejemplo01.Cargador</node>
+                <node x="0.0" y="80.0">co.edu.sena.asociacion.ejemplo01.Computador</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="co.edu.sena.asociacion.ejemplo01.Computador" target="co.edu.sena.asociacion.ejemplo01.Cargador">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-218.0" y="107.0" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APP2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cargador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Cargador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejemplo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/Ejemplo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/co.edu.sena.anominas" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/co.edu.sena.anominas">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>co.edu.sena.anominas</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">co.edu.sena.anominas.Ejemplo01</node>
+                <node x="0.0" y="75.0">co.edu.sena.anominas.APP</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-224.5" y="107.0" />
+              <SelectedNodes>
+                <node>co.edu.sena.anominas.Ejemplo01</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,6 +182,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,13 +202,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/PerroCiego.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/visibilidad/ejemplo01/PerroMudo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/APP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesanidadas/ClaseA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/visibilidad/ejemplo01/APP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/Perro.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesanidadas/Celular.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/generalizacion/AvionGuerra.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/generalizacion/AvionComercial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/encapsulamiento/Gato.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/constructores/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/encapsulamiento/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/constructores/Billetera.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/atributosestaticos/Ejemplo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/atributosestaticos/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/metodoestatico/Ejemplo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/metodoestatico/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/metodoabstracto/AvionCarga.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/metodoabstracto/AvionComercial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/metodoabstracto/Avion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesfinales/Avion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesfinales/AvionComercial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/sobreescritura/Perro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/sobreescritura/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/sena/sena/acoplamiento/ejemplo01/ClaseUno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/sena/sena/acoplamiento/ejemplo01/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/ClaseUno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/InterfaceClaseDos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/InterfaceClaseTres.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo01/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/Avion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/AvionComercial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Carnivoro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Herviboro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Leon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Tigre.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Vaca.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Conejo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/wrappers/Ejemplo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Persona.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Mudo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Cojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Ciego.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo01/ClaseUno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/nestedclassstatic/ClaseUno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/nestedclassstatic/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/Ejemplo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Cargador.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Computador.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Archivo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP2.java" />
       </list>
     </option>
   </component>
@@ -101,6 +269,11 @@
         <option name="mavenHome" value="D:/Herramientas/apache-maven-3.3.9" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -110,7 +283,7 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="true" />
       <showMembers />
       <showModules />
       <showLibraryContents />
@@ -123,7 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -157,65 +329,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="sena" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="sena" type="462c0819:PsiDirectoryNode" />
-              <item name="clasesanidadas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="sena" type="462c0819:PsiDirectoryNode" />
-              <item name="todas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
               <item name="ejemplo01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.edu.sena.nestedclassstatic" />
+      <recent name="co.edu.sena.acoplamiento.ejemplo02" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.edu.sena.asociacion.ejemplo01" />
+      <recent name="co.edu.sena.realizacion" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -230,7 +381,102 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.APP2">
+    <configuration name="APP (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.polimorfismos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.polimorfismos.APP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="POO" />
+      <envs />
+    </configuration>
+    <configuration name="APP (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.anominas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.anominas.APP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="POO" />
+      <envs />
+    </configuration>
+    <configuration name="APP (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.asociacion.ejemplo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.asociacion.ejemplo01.APP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="POO" />
+      <envs />
+    </configuration>
+    <configuration name="APP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.asociacion.ejemplo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.asociacion.ejemplo01.APP2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="POO" />
+      <envs />
+    </configuration>
+    <configuration name="Ejemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.wrappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.wrappers.Ejemplo01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="POO" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -312,6 +558,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.APP (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ejemplo01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.APP (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.APP (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.APP2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.APP2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.APP (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.APP (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Ejemplo01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.APP (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -324,40 +586,47 @@
       <option name="presentableId" value="Default" />
       <updated>1501518544233</updated>
       <workItem from="1501518551533" duration="4581000" />
+      <workItem from="1501534346427" duration="990000" />
+      <workItem from="1501535854617" duration="428000" />
+      <workItem from="1501536289294" duration="22000" />
+      <workItem from="1501536314741" duration="17000" />
+      <workItem from="1501536380793" duration="91000" />
+      <workItem from="1501589766503" duration="17657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4581000" />
+    <option name="totallyTimeSpent" value="23786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -372,72 +641,130 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/visibilidad/ejemplo01/PerroMudo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/metodoabstracto/AvionComercial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#123#124#0" expanded="false" />
+            <element signature="e#168#169#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/metodoabstracto/Avion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="839" column="17" lean-forward="false" selection-start-line="839" selection-start-column="12" selection-end-line="839" selection-end-column="17" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/visibilidad/ejemplo01/APP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/PerroCiego.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesfinales/Avion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesfinales/AvionComercial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="110" column="17" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/APP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/sobreescritura/Perro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#117#118#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/co.edu.sena.clasesanidadas">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/sobreescritura/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#88#89#0" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.sena.sena.acoplamiento.ejemplo01">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>co.edu.sena.clasesanidadas</OriginalElement>
+          <OriginalElement>co.sena.sena.acoplamiento.ejemplo01</OriginalElement>
           <nodes>
-            <node x="" y="">co.edu.sena.clasesanidadas.ClaseA.ClaseB</node>
-            <node x="" y="">co.edu.sena.clasesanidadas.ClaseA</node>
+            <node x="48.333333333333336" y="80.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos</node>
+            <node x="52.490196078431374" y="340.0">co.edu.sena.acoplamiento.ejemplo01.APP</node>
+            <node x="89.16176470588235" y="240.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro</node>
+            <node x="0.0" y="0.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno</node>
+            <node x="146.57843137254903" y="160.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres</node>
           </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="43.0" y="15.0" />
-          <SelectedNodes />
+          <edges>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres">
+              <point x="0.0" y="-15.0" />
+              <point x="146.16176470588235" y="215.0" />
+              <point x="163.2450980392157" y="215.0" />
+              <point x="-33.33333333333334" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.APP" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos">
+              <point x="-4.5" y="-15.0" />
+              <point x="83.99019607843138" y="290.0" />
+              <point x="78.66176470588236" y="290.0" />
+              <point x="78.66176470588236" y="135.0" />
+              <point x="97.33333333333334" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno">
+              <point x="0.0" y="-15.0" />
+              <point x="97.33333333333334" y="55.0" />
+              <point x="83.33333333333334" y="55.0" />
+              <point x="33.33333333333334" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.APP" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno">
+              <point x="-31.5" y="-15.0" />
+              <point x="56.990196078431374" y="320.0" />
+              <point x="28.83333333333333" y="320.0" />
+              <point x="28.83333333333333" y="55.0" />
+              <point x="16.666666666666657" y="55.0" />
+              <point x="-33.33333333333334" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.APP" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres">
+              <point x="31.5" y="-15.0" />
+              <point x="119.99019607843138" y="320.0" />
+              <point x="222.66176470588235" y="320.0" />
+              <point x="222.66176470588235" y="215.0" />
+              <point x="229.91176470588238" y="215.0" />
+              <point x="33.33333333333334" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.APP" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro">
+              <point x="13.5" y="-15.0" />
+              <point x="101.99019607843138" y="300.0" />
+              <point x="174.66176470588235" y="300.0" />
+              <point x="28.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos">
+              <point x="0.0" y="-15.0" />
+              <point x="196.57843137254903" y="135.0" />
+              <point x="130.0" y="135.0" />
+              <point x="32.66666666666666" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="124.5" y="185.0" />
+          <SelectedNodes>
+            <node>co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres</node>
+          </SelectedNodes>
           <Categories>
             <Category>Inner Classes</Category>
           </Categories>
@@ -446,56 +773,715 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesanidadas/ClaseA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/InterfaceClaseCuatro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/InterfaceClaseDos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/visibilidad/todas/Perro.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/ClaseUno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="174">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesanidadas/Celular.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/InterfaceClaseTres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.acoplamiento.ejemplo02">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.acoplamiento.ejemplo02</OriginalElement>
+          <nodes>
+            <node x="19.409090909090907" y="160.0">co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseDos</node>
+            <node x="0.0" y="0.0">co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseCuatro</node>
+            <node x="60.65909090909091" y="320.0">co.edu.sena.acoplamiento.ejemplo02.APP</node>
+            <node x="71.6590909090909" y="240.0">co.edu.sena.acoplamiento.ejemplo02.ClaseUno</node>
+            <node x="66.5" y="80.0">co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseTres</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.APP" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseTres">
+              <point x="28.799999999999997" y="-15.0" />
+              <point x="125.4590909090909" y="300.0" />
+              <point x="182.1590909090909" y="300.0" />
+              <point x="182.1590909090909" y="135.0" />
+              <point x="176.0" y="135.0" />
+              <point x="36.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.ClaseUno" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseDos">
+              <point x="0.0" y="-15.0" />
+              <point x="121.6590909090909" y="215.0" />
+              <point x="127.4090909090909" y="215.0" />
+              <point x="36.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.APP" target="co.edu.sena.acoplamiento.ejemplo02.ClaseUno">
+              <point x="14.400000000000006" y="-15.0" />
+              <point x="111.05909090909091" y="290.0" />
+              <point x="146.6590909090909" y="290.0" />
+              <point x="25.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseDos" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseTres">
+              <point x="0.0" y="-15.0" />
+              <point x="91.4090909090909" y="135.0" />
+              <point x="103.0" y="135.0" />
+              <point x="-36.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.APP" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseDos">
+              <point x="-14.400000000000006" y="-15.0" />
+              <point x="82.2590909090909" y="290.0" />
+              <point x="61.15909090909091" y="290.0" />
+              <point x="61.15909090909091" y="215.0" />
+              <point x="55.40909090909091" y="215.0" />
+              <point x="-36.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseTres" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseCuatro">
+              <point x="0.0" y="-15.0" />
+              <point x="139.5" y="55.0" />
+              <point x="120.0" y="55.0" />
+              <point x="40.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo02.APP" target="co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseCuatro">
+              <point x="-28.799999999999997" y="-15.0" />
+              <point x="67.85909090909091" y="300.0" />
+              <point x="8.909090909090907" y="300.0" />
+              <point x="8.909090909090907" y="55.0" />
+              <point x="40.0" y="55.0" />
+              <point x="-40.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-170.5" y="229.5" />
+          <SelectedNodes>
+            <node>co.edu.sena.acoplamiento.ejemplo02.InterfaceClaseCuatro</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo02/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/Avion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/AvionComercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Herviboro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Leon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Tigre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Vaca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Conejo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/superclase/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.polimorfismos">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.polimorfismos</OriginalElement>
+          <nodes>
+            <node x="283.25" y="102.0">co.edu.sena.polimorfismos.Carnivoro</node>
+            <node x="0.0" y="279.0">co.edu.sena.polimorfismos.APP</node>
+            <node x="153.0" y="193.0">co.edu.sena.polimorfismos.Vaca</node>
+            <node x="157.625" y="0.0">co.edu.sena.polimorfismos.Animal</node>
+            <node x="344.0" y="193.0">co.edu.sena.polimorfismos.Tigre</node>
+            <node x="77.0" y="102.0">co.edu.sena.polimorfismos.Herviboro</node>
+            <node x="0.0" y="182.0">co.edu.sena.polimorfismos.Conejo</node>
+            <node x="248.0" y="193.0">co.edu.sena.polimorfismos.Leon</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.polimorfismos.Leon" target="co.edu.sena.polimorfismos.Carnivoro">
+              <point x="0.0" y="-15.0" />
+              <point x="286.0" y="157.0" />
+              <point x="308.75" y="157.0" />
+              <point x="-25.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.polimorfismos.Carnivoro" target="co.edu.sena.polimorfismos.Animal">
+              <point x="0.0" y="-15.0" />
+              <point x="334.25" y="77.0" />
+              <point x="258.125" y="77.0" />
+              <point x="33.5" y="26.0" />
+            </edge>
+            <edge source="co.edu.sena.polimorfismos.Herviboro" target="co.edu.sena.polimorfismos.Animal">
+              <point x="0.0" y="-15.0" />
+              <point x="128.5" y="77.0" />
+              <point x="191.125" y="77.0" />
+              <point x="-33.5" y="26.0" />
+            </edge>
+            <edge source="co.edu.sena.polimorfismos.Tigre" target="co.edu.sena.polimorfismos.Carnivoro">
+              <point x="0.0" y="-15.0" />
+              <point x="382.5" y="157.0" />
+              <point x="359.75" y="157.0" />
+              <point x="25.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.polimorfismos.Conejo" target="co.edu.sena.polimorfismos.Herviboro">
+              <point x="0.0" y="-26.0" />
+              <point x="66.5" y="157.0" />
+              <point x="102.75" y="157.0" />
+              <point x="-25.75" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.polimorfismos.Vaca" target="co.edu.sena.polimorfismos.Herviboro">
+              <point x="0.0" y="-15.0" />
+              <point x="190.5" y="157.0" />
+              <point x="154.25" y="157.0" />
+              <point x="25.75" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-89.0" y="154.0" />
+          <SelectedNodes>
+            <node>co.edu.sena.polimorfismos.Carnivoro</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="110" column="16" lean-forward="false" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/wrappers/Ejemplo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/Carnivoro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/polimorfismos/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Cojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.realizacion">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.realizacion</OriginalElement>
+          <nodes>
+            <node x="203.0" y="0.0">co.edu.sena.realizacion.Cojo</node>
+            <node x="96.00000000000001" y="80.0">co.edu.sena.realizacion.Persona</node>
+            <node x="106.00000000000001" y="160.0">co.edu.sena.realizacion.APP</node>
+            <node x="101.00000000000001" y="0.0">co.edu.sena.realizacion.Mudo</node>
+            <node x="0.0" y="0.0">co.edu.sena.realizacion.Ciego</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.realizacion.APP" target="co.edu.sena.realizacion.Cojo">
+              <point x="24.0" y="-15.0" />
+              <point x="166.0" y="135.0" />
+              <point x="259.25" y="135.0" />
+              <point x="18.75" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.realizacion.Persona" target="co.edu.sena.realizacion.Cojo">
+              <point x="30.666666666666657" y="-15.0" />
+              <point x="172.66666666666669" y="55.0" />
+              <point x="221.75" y="55.0" />
+              <point x="-18.75" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.realizacion.APP" target="co.edu.sena.realizacion.Persona">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.realizacion.Persona" target="co.edu.sena.realizacion.Ciego">
+              <point x="-30.66666666666667" y="-15.0" />
+              <point x="111.33333333333334" y="55.0" />
+              <point x="60.75" y="55.0" />
+              <point x="20.25" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.realizacion.Persona" target="co.edu.sena.realizacion.Mudo">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.realizacion.APP" target="co.edu.sena.realizacion.Ciego">
+              <point x="-24.0" y="-15.0" />
+              <point x="118.00000000000001" y="135.0" />
+              <point x="20.250000000000014" y="135.0" />
+              <point x="-20.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-138.0" y="149.5" />
+          <SelectedNodes>
+            <node>co.edu.sena.realizacion.Ciego</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Mudo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/realizacion/Ciego.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo01/ClaseUno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.acoplamiento.ejemplo01">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.acoplamiento.ejemplo01</OriginalElement>
+          <nodes>
+            <node x="8.0" y="80.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos</node>
+            <node x="159.0" y="0.0">co.edu.sena.acoplamiento.ejemplo01.APP</node>
+            <node x="0.0" y="240.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro</node>
+            <node x="7.0" y="160.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres</node>
+            <node x="7.0" y="0.0">co.edu.sena.acoplamiento.ejemplo01.ClaseUno</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos.ClaseTres" target="co.edu.sena.acoplamiento.ejemplo01.ClaseUno.ClaseDos">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-227.0" y="173.0" />
+          <SelectedNodes>
+            <node>co.edu.sena.acoplamiento.ejemplo01.APP</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/acoplamiento/ejemplo01/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/nestedclassstatics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.nestedclassstatic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.nestedclassstatic</OriginalElement>
+          <nodes>
+            <node x="114.33333333333334" y="0.0">co.edu.sena.nestedclassstatic.ClaseUno</node>
+            <node x="7.0" y="160.0">co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos.ClaseTres</node>
+            <node x="0.0" y="240.0">co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro</node>
+            <node x="127.00000000000001" y="160.0">co.edu.sena.nestedclassstatic.APP</node>
+            <node x="57.48809523809524" y="80.0">co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos.ClaseTres.ClaseCuatro" target="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos.ClaseTres">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos.ClaseTres" target="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos">
+              <point x="0.0" y="-15.0" />
+              <point x="57.0" y="140.0" />
+              <point x="73.82142857142858" y="140.0" />
+              <point x="-32.666666666666664" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.nestedclassstatic.APP" target="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos">
+              <point x="-27.0" y="-15.0" />
+              <point x="136.0" y="140.0" />
+              <point x="106.48809523809524" y="140.0" />
+              <point x="-7.105427357601002E-15" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.nestedclassstatic.ClaseUno.ClaseDos" target="co.edu.sena.nestedclassstatic.ClaseUno">
+              <point x="0.0" y="-15.0" />
+              <point x="106.48809523809524" y="55.0" />
+              <point x="131.0" y="55.0" />
+              <point x="-33.333333333333336" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.nestedclassstatic.APP" target="co.edu.sena.nestedclassstatic.ClaseUno">
+              <point x="9.0" y="-15.0" />
+              <point x="172.0" y="140.0" />
+              <point x="179.03571428571428" y="140.0" />
+              <point x="179.03571428571428" y="55.0" />
+              <point x="164.33333333333334" y="55.0" />
+              <point x="7.105427357601002E-15" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-169.5" y="189.5" />
+          <SelectedNodes>
+            <node>co.edu.sena.nestedclassstatic.ClaseUno</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/nestedclassstatic/ClaseUno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/nestedclassstatic/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="497" column="21" lean-forward="true" selection-start-line="497" selection-start-column="21" selection-end-line="497" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.anominas">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.anominas</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">co.edu.sena.anominas.Ejemplo01</node>
+            <node x="0.0" y="75.0">co.edu.sena.anominas.APP</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-224.5" y="107.0" />
+          <SelectedNodes>
+            <node>co.edu.sena.anominas.Ejemplo01</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/Ejemplo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/anominas/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.asociacion.ejemplo01">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.asociacion.ejemplo01</OriginalElement>
+          <nodes>
+            <node x="-1.5" y="-84.0">co.edu.sena.asociacion.ejemplo01.Cargador</node>
+            <node x="0.0" y="80.0">co.edu.sena.asociacion.ejemplo01.Computador</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.asociacion.ejemplo01.Computador" target="co.edu.sena.asociacion.ejemplo01.Cargador">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-218.0" y="107.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Cargador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Computador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/Archivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="38" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/asociacion/ejemplo01/APP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

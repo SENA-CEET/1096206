@@ -1,4 +1,4 @@
-package co.edu.visibilidad.ejemplo01;
+package co.edu.sena.visibilidad.ejemplo01;
 
 import co.edu.sena.visibilidad.todas.Perro;
 import java.util.List;

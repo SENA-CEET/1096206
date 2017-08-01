@@ -10,5 +10,7 @@ public class APP {
 
         ClaseA a = new ClaseA();
 
+        long enteroLargo = 1234_5678_9012_3456L;
+
     }
 }
